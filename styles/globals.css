@@ -1,0 +1,24 @@
+.CircularProgressbar-path {
+    stroke: rgba(79, 70, 229) !important;
+}
+
+.CircularProgressbar-trail {
+    stroke: lightgray !important;
+}
+
+.CircularProgressbar-text {
+    fill: rgba(79, 70, 229) !important;
+}
+
+/* .CircularProgressbar-background {
+    fill: green;
+} */
+
+.toast-app {
+    background-color: rgba(79, 70, 229) !important;
+    color: #fff !important;
+}
+
+.toast-app .Toastify__close-button {
+    color: #fff !important;
+}
